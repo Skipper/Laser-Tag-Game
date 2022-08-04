@@ -65,6 +65,8 @@ For more details, go to the specific project folder: /images
 
 <img src="images/server.PNG" width="385" height="600" /> <img src="images/player.PNG" width="385" height="600" /> 
 
+<img src="images/diagram.png" width="385" height="686" />
+
 ## Installation
 
 This project requires to be installed on a **Raspberry Pi 3** and to use the aforementioned **Sensors** with their respective connections.
